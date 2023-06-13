@@ -1,5 +1,5 @@
 # encourage_bot
-Discord bot made with Python. <br />
+Discord bot made with Python. It makes use of Replit's database.<br />
 It sends encouraging messages whenever a user types in a negative word in the chat. <br />
 You can also use a command to request an inspiring quote (using the Zen Quotes API). <br />
 <hr>
